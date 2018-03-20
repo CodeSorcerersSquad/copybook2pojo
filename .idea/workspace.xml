@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb8c50f6-88dd-4d41-8eb0-0bd5f0d5f658" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/copybook2pojo.iml" afterPath="$PROJECT_DIR$/copybook2pojo.iml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeBook.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeBook.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeField.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeField.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeFiller.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeFiller.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeFillers.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeFillers.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeList.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/annotations/MainframeList.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/conversor/domain/Child.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/domain/Child.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/conversor/domain/Request.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/domain/Request.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/conversor/domain/Response.java" afterPath="$PROJECT_DIR$/src/main/java/conversor/domain/Response.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,14 +17,18 @@
       <file leaf-file-name="Child.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/conversor/domain/Child.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <state relative-caret-position="457">
+              <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#445#446#0" expanded="true" />
                 <element signature="e#472#473#0" expanded="true" />
                 <element signature="e#512#513#0" expanded="true" />
                 <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -409,14 +404,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/conversor/domain/Child.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        <state relative-caret-position="457">
+          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#445#446#0" expanded="true" />
             <element signature="e#472#473#0" expanded="true" />
             <element signature="e#512#513#0" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -21,5 +21,12 @@ public class Child {
     public void setName(String name) {
         this.name = name;
     }
+    public Integer getYears() {
+        return years;
+    }
 
+    public void setYears(Integer years) {
+        this.years = years;
+    }
+    
 }
