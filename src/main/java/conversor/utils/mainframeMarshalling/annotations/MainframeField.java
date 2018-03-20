@@ -1,4 +1,4 @@
-package conversor.annotations;
+package conversor.utils.mainframeMarshalling.annotations;
 
 import java.lang.annotation.*;
 

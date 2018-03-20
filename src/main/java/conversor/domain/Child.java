@@ -1,8 +1,6 @@
 package conversor.domain;
 
-import conversor.annotations.MainframeBook;
-import conversor.annotations.MainframeField;
-import conversor.annotations.MainframeFiller;
+import conversor.utils.mainframeMarshalling.annotations.*;
 
 @MainframeBook(length = 60)
 @MainframeFiller(afterOrder = 2, length = 8, fillerChar = 'Z')
@@ -28,5 +26,5 @@ public class Child {
     public void setYears(Integer years) {
         this.years = years;
     }
-    
+
 }

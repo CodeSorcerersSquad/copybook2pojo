@@ -1,11 +1,6 @@
 package conversor.domain;
 
-import conversor.annotations.MainframeBook;
-import conversor.annotations.MainframeField;
-import conversor.annotations.MainframeFiller;
-import conversor.annotations.MainframeFillers;
-import conversor.annotations.MainframeList;
-
+import conversor.utils.mainframeMarshalling.annotations.*;
 import java.util.List;
 
 @MainframeBook(length = 660)

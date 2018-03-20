@@ -1,9 +1,6 @@
 package conversor.domain;
 
-import conversor.annotations.MainframeBook;
-import conversor.annotations.MainframeField;
-import conversor.annotations.MainframeFiller;
-import conversor.annotations.MainframeFillers;
+import conversor.utils.mainframeMarshalling.annotations.*;
 
 @MainframeBook(length = 150)
 @MainframeFillers({

@@ -1,6 +1,6 @@
-package src.main.java.conversor;
+package conversor;
 
-public class app {
+public class App {
 
     public static void main(String[] args) {
 
