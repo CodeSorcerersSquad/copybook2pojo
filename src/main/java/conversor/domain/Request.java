@@ -1,9 +1,9 @@
-package src.main.java.conversor.domain;
+package conversor.domain;
 
-import src.main.java.conversor.annotations.MainframeBook;
-import src.main.java.conversor.annotations.MainframeField;
-import src.main.java.conversor.annotations.MainframeFiller;
-import src.main.java.conversor.annotations.MainframeFillers;
+import conversor.annotations.MainframeBook;
+import conversor.annotations.MainframeField;
+import conversor.annotations.MainframeFiller;
+import conversor.annotations.MainframeFillers;
 
 @MainframeBook(length = 150)
 @MainframeFillers({

@@ -1,4 +1,4 @@
-package src.main.java.conversor.annotations;
+package conversor.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

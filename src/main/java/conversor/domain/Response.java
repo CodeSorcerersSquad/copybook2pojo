@@ -1,6 +1,10 @@
-package src.main.java.conversor.domain;
+package conversor.domain;
 
-import src.main.java.conversor.annotations.*;
+import conversor.annotations.MainframeBook;
+import conversor.annotations.MainframeField;
+import conversor.annotations.MainframeFiller;
+import conversor.annotations.MainframeFillers;
+import conversor.annotations.MainframeList;
 
 import java.util.List;
 
